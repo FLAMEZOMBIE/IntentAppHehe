@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Intent_Aja_Hehe</string>
+    <string name="move_activity">PINDAH WOY!</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="move_with_object">Pindah Activity dengan Object</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="move_with_result">Pindah Activity Result Woy</string>
+    <string name="result_from_activity">Hasilnya Woy</string>
+    <string name="choose_number">Pilih Anime Kesukaanmu</string>
+    <string name="_50">Saenai Heroine No Sodatekata</string>
+    <string name="_100">Samurai Champloo</string>
+    <string name="_150">Yosuga No Sora</string>
+    <string name="_200">Shoujo Ramune</string>
+    <string name="choose">Chose</string>
+    <string name="data_received">Data Received</string>
+    <string name="object_received">Object Received</string>
+    <string name="this_is_moveactivity">NAH GITU DONG PINDAH</string>
+</resources>
